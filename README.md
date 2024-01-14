@@ -31,7 +31,3 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-origin
 <a href="https://github.com/lucasneryy" target="_blank"><img align="left" alt="GitHub" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" />
 <a href="https://www.hackerrank.com/username" target="blank"><img align="left" alt="HackerRank" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" />
 <a href="https://www.leetcode.com/username" target="blank"><img align="left" alt="LeetCode" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" />
-
-</br>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lucasneryy&label=Profile%20views&color=0e75b6&style=flat" alt="lucasneryy" /> </p>
